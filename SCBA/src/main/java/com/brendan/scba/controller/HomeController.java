@@ -1,4 +1,4 @@
-package com.brendan.scba;
+package com.brendan.scba.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
